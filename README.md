@@ -20,7 +20,7 @@ This repository contains the SQL Query written to analyze this dataset.
 
 For a detailed description of the project, insights, and recommendations, please check out the full article on Medium. The article provides a comprehensive analysis of the customer churn patterns and offers valuable recommendations to reduce churn rates. You can find the article using the link below:
 
-Medium Article: [Telecom Customer Churn Analysis Using SQL and Looker Studio](https://medium.com/@thalesvignoli/telecom-customer-churn-analysis-using-sql-and-looker-studio-1a9a37dc95d8).
+[Medium Article](https://medium.com/@thalesvignoli/telecom-customer-churn-analysis-using-sql-and-looker-studio-1a9a37dc95d8).
 
 Feel free to reach out to me with any questions or suggestions regarding the project or the analysis.
 
@@ -29,6 +29,6 @@ Feel free to reach out to me with any questions or suggestions regarding the pro
 We welcome contributions and suggestions to improve this analysis. Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute.
 
 ## Contact
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact me at [Linkedin](https://www.linkedin.com/in/thalesvignoli/?locale=en_US).
 
 
