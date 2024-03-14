@@ -9,7 +9,7 @@ This project aims to analyze customer churn within a telecom company, identifyin
 - To provide actionable insights for reducing customer churn rates.
 
 ## Data Source
-The analysis is based on a comprehensive dataset of telecom customers, including demographics, service usage patterns, billing information, and churn status.
+The analysis is based on a comprehensive [dataset](https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics) of telecom customers, including demographics, service usage patterns, billing information, and churn status.
 
 ## Project Tools/Structure
 - **SQL Scripts:** Contains all SQL queries used for data  analysis.
